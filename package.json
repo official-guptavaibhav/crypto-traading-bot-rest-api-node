@@ -1,0 +1,17 @@
+{
+  "name": "crypto_trading_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ccxt": "^1.90.86",
+    "dotenv": "^16.0.1"
+  }
+}
